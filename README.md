@@ -42,6 +42,11 @@ cleanup queue data from redis.
 $ curl -X POST http://127.0.0.1:3000/cleanup
 ```
 
+## Libraries
+
+- [Express](http://expressjs.com/)
+- [Kue](http://automattic.github.io/kue/)
+
 ## License
 
 The MIT license. Please see LICENSE file.
